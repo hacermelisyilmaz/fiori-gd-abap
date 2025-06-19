@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "name": "Oven Thermometer",
+      "description": "High-precision oven thermometer for accurate cooking.",
+      "category": "Kitchen",
+      "subcategory": "Cooking Tools & Utensils",
+      "price": 11.99,
+      "isStock": true
+    },
+    {
+      "name": "Chewy Granola Bars",
+      "description": "Oats and honey bars with a chewy texture and nutty flavor.",
+      "category": "Food - Snacks",
+      "subcategory": "Healthy Snacks",
+      "price": 3.49,
+      "isStock": false
+    },
+    {
+      "name": "Savory Snack Mix",
+      "description": "A mix of nuts, pretzels, and crackers, seasoned just right for snacking.",
+      "category": "Food - Snacks",
+      "subcategory": "Savory Snacks",
+      "price": 4.49,
+      "isStock": false
+    },
+    {
+      "name": "Fruit Medley Juice",
+      "description": "Refreshing juice blend made with various fresh fruits.",
+      "category": "Food - Beverages",
+      "subcategory": "Juice",
+      "price": 3.49,
+      "isStock": true
+    },
+    {
+      "name": "Smart Air Purifier",
+      "description": "Filters allergens and pollutants from the air for a healthier home.",
+      "category": "Home",
+      "subcategory": "Air Quality & Purification",
+      "price": 199.99,
+      "isStock": false
+    },
+    {
+      "name": "Smart Air Purifier",
+      "description": "Filters allergens and pollutants from the air for a healthier home.",
+      "category": "Home",
+      "subcategory": "Air Quality & Purification",
+      "price": 199.99,
+      "isStock": true
+    },
+    {
+      "name": "Chocolate Mint Cookies",
+      "description": "Delicious cookies with rich chocolate flavor and a hint of mint.",
+      "category": "Food - Baking",
+      "subcategory": "Cookies",
+      "price": 2.29,
+      "isStock": true
+    },
+    {
+      "name": "Peach Preserves",
+      "description": "Sweet and fruity peach preserves, perfect for spreading on toast.",
+      "category": "Food - Condiments",
+      "subcategory": "Fruit Spreads",
+      "price": 3.79,
+      "isStock": true
+    },
+    {
+      "name": "Peach & Mango Salsa",
+      "description": "A zesty salsa made with peaches and mangos, great for chips.",
+      "category": "Food - Snacks",
+      "subcategory": "Salsas and Dips",
+      "price": 4.49,
+      "isStock": true
+    },
+    {
+      "name": "Vegan Taco Seasoning",
+      "description": "Spice blend for creating flavorful vegan taco filling.",
+      "category": "Food - Spices",
+      "subcategory": "Plant-Based Seasonings",
+      "price": 2.49,
+      "isStock": true
+    },
+    {
+      "name": "Rice Noodles",
+      "description": "Thin rice noodles, ideal for stir-fries and soups.",
+      "category": "Food - Grains",
+      "subcategory": "Pasta",
+      "price": 3.49,
+      "isStock": false
+    },
+    {
+      "name": "Portable Air Conditioner",
+      "description": "Compact air conditioner for personal cooling.",
+      "category": "Home Appliances",
+      "subcategory": "Cooling Appliances",
+      "price": 299.99,
+      "isStock": false
+    },
+    {
+      "name": "Maple Almond Granola",
+      "description": "Crunchy granola with maple flavor and almond pieces for breakfast.",
+      "category": "Food - Breakfast",
+      "subcategory": "Granola/Cereal",
+      "price": 5.49,
+      "isStock": true
+    },
+    {
+      "name": "Protein Pancake Mix",
+      "description": "A protein-packed pancake mix for a nutritious breakfast.",
+      "category": "Food - Breakfast",
+      "subcategory": "Pancakes & Waffles",
+      "price": 3.99,
+      "isStock": true
+    },
+    {
+      "name": "Raspberry Tart",
+      "description": "A delicious tart filled with fresh raspberry filling.",
+      "category": "Food - Baked Goods",
+      "subcategory": "Pies and Tarts",
+      "price": 5.49,
+      "isStock": true
+    },
+    {
+      "name": "Homestyle Beef Stew",
+      "description": "Hearty beef stew with vegetables, ready to heat and serve.",
+      "category": "Food - Canned Soups",
+      "subcategory": "Soups",
+      "price": 7.99,
+      "isStock": true
+    },
+    {
+      "name": "Outdoor Camping Lantern",
+      "description": "Rechargeable LED lantern ideal for camping and outdoor activities.",
+      "category": "Outdoor",
+      "subcategory": "Camping Equipment",
+      "price": 34.99,
+      "isStock": false
+    },
+    {
+      "name": "Peanut Butter Protein Balls",
+      "description": "No-bake energy bites made with peanut butter and oats.",
+      "category": "Food - Snacks",
+      "subcategory": "Healthy Snacks",
+      "price": 5.29,
+      "isStock": false
+    },
+    {
+      "name": "Spicy Tuna Rolls",
+      "description": "The perfect seafood snack, ready to eat and delicious.",
+      "category": "Food - Seafood",
+      "subcategory": "Sushi",
+      "price": 6.49,
+      "isStock": true
+    },
+    {
+      "name": "Coffee Capsule Dispenser",
+      "description": "Organize coffee capsules with this stylish dispenser.",
+      "category": "Kitchen",
+      "subcategory": "Coffee Accessories",
+      "price": 24.99,
+      "isStock": false
+    }
+  ]
+}
