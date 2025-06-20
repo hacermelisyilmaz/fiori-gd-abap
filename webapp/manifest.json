@@ -1,6 +1,11 @@
 {
   "_version": "1.65.0",
   "sap.app": {
-    "id": "abap.fiori"
+    "id": "abap.fiori",
+    "type": "application",
+    "title": "ABAP Eğitim",
+    "applicationVersion": {
+      "version": "1.0.0"
+    }
   }
 }
