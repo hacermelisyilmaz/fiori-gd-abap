@@ -1,0 +1,36 @@
+<mvc:View
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m"
+  controllerName="abap.fiori.controller.Main">
+
+  <App>
+    <Page title="Product List">
+      <content>
+        <Table
+          id="productTable"
+          items="{/products}"
+          inset="false">
+          <headerToolbar>
+            <Toolbar>
+              <Title text="Products" level="H2" />
+            </Toolbar>
+          </headerToolbar>
+          <columns>
+            <Column><Text text="Name" /></Column>
+            <Column><Text text="Price" /></Column>
+            <Column><Text text="Stock" /></Column>
+          </columns>
+          <items>
+            <ColumnListItem>
+              <cells>
+                <Text text="{name}" />
+                <Text text="{price}" />
+                <Text text="{= ${inStock} ? 'In Stock' : 'Out of Stock' }" />
+              </cells>
+            </ColumnListItem>
+          </items>
+        </Table>
+      </content>
+    </Page>
+  </App>
+</mvc:View>
