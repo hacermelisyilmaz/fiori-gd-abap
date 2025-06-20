@@ -6,7 +6,7 @@
       "category": "Kitchen",
       "subcategory": "Cooking Tools & Utensils",
       "price": 11.99,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Chewy Granola Bars",
@@ -14,7 +14,7 @@
       "category": "Food - Snacks",
       "subcategory": "Healthy Snacks",
       "price": 3.49,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Savory Snack Mix",
@@ -22,7 +22,7 @@
       "category": "Food - Snacks",
       "subcategory": "Savory Snacks",
       "price": 4.49,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Fruit Medley Juice",
@@ -30,7 +30,7 @@
       "category": "Food - Beverages",
       "subcategory": "Juice",
       "price": 3.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Smart Air Purifier",
@@ -38,15 +38,7 @@
       "category": "Home",
       "subcategory": "Air Quality & Purification",
       "price": 199.99,
-      "isStock": false
-    },
-    {
-      "name": "Smart Air Purifier",
-      "description": "Filters allergens and pollutants from the air for a healthier home.",
-      "category": "Home",
-      "subcategory": "Air Quality & Purification",
-      "price": 199.99,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Chocolate Mint Cookies",
@@ -54,7 +46,7 @@
       "category": "Food - Baking",
       "subcategory": "Cookies",
       "price": 2.29,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Peach Preserves",
@@ -62,7 +54,7 @@
       "category": "Food - Condiments",
       "subcategory": "Fruit Spreads",
       "price": 3.79,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Peach & Mango Salsa",
@@ -70,7 +62,7 @@
       "category": "Food - Snacks",
       "subcategory": "Salsas and Dips",
       "price": 4.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Vegan Taco Seasoning",
@@ -78,7 +70,7 @@
       "category": "Food - Spices",
       "subcategory": "Plant-Based Seasonings",
       "price": 2.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Rice Noodles",
@@ -86,7 +78,7 @@
       "category": "Food - Grains",
       "subcategory": "Pasta",
       "price": 3.49,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Portable Air Conditioner",
@@ -94,7 +86,7 @@
       "category": "Home Appliances",
       "subcategory": "Cooling Appliances",
       "price": 299.99,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Maple Almond Granola",
@@ -102,7 +94,7 @@
       "category": "Food - Breakfast",
       "subcategory": "Granola/Cereal",
       "price": 5.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Protein Pancake Mix",
@@ -110,7 +102,7 @@
       "category": "Food - Breakfast",
       "subcategory": "Pancakes & Waffles",
       "price": 3.99,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Raspberry Tart",
@@ -118,7 +110,7 @@
       "category": "Food - Baked Goods",
       "subcategory": "Pies and Tarts",
       "price": 5.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Homestyle Beef Stew",
@@ -126,7 +118,7 @@
       "category": "Food - Canned Soups",
       "subcategory": "Soups",
       "price": 7.99,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Outdoor Camping Lantern",
@@ -134,7 +126,7 @@
       "category": "Outdoor",
       "subcategory": "Camping Equipment",
       "price": 34.99,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Peanut Butter Protein Balls",
@@ -142,7 +134,7 @@
       "category": "Food - Snacks",
       "subcategory": "Healthy Snacks",
       "price": 5.29,
-      "isStock": false
+      "inStock": false
     },
     {
       "name": "Spicy Tuna Rolls",
@@ -150,7 +142,7 @@
       "category": "Food - Seafood",
       "subcategory": "Sushi",
       "price": 6.49,
-      "isStock": true
+      "inStock": true
     },
     {
       "name": "Coffee Capsule Dispenser",
@@ -158,7 +150,7 @@
       "category": "Kitchen",
       "subcategory": "Coffee Accessories",
       "price": 24.99,
-      "isStock": false
+      "inStock": false
     }
   ]
 }
